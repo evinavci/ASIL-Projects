@@ -5,7 +5,7 @@ Bu depo, veri bilimi, makine öğrenmesi ve tıbbi görüntü işleme alanların
 
 ##  Projeler
 
-### 1. Dünya Mutluluk Raporu Analizi (`world-happiness-report-data-analysis...`)
+### 1. Dünya Mutluluk Raporu Analizi (`world-happiness-report-data-analysis.ipynb`)
 Dünya Mutluluk Raporu verileri üzerinden detaylı bir Keşifçi Veri Analizi (EDA) çalışması.
 * **Kullanılan Yöntemler:** İstatistiksel Analiz, Veri Görselleştirme.
 * **Öne Çıkanlar:** Ülkelerin mutluluk skorlarını etkileyen temel faktörlerin (gelir, sağlık, özgürlük vb.) grafiklerle analizi ve korelasyonların incelenmesi.
